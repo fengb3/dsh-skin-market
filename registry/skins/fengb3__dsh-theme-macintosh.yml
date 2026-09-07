@@ -6,7 +6,7 @@ author: fengb3
 description: DSH Classic Macintosh 主题：System 7 像素语汇——ChiKareGo/Fusion Pixel 像素字体、桌面噪点画布、Finder 式会话侧栏、方角黑白按钮与弹窗、开机 HappyMac 空态、4px Bayer 抖动溶解过渡；theme.overrideTokens 常驻深浅双色随官方外观切换，停用即完整还原；零构建纯 loader 格式，附 Kit 组件检视页。
 repo: https://github.com/fengb3/dsh-theme-macintosh
 package: dsh-theme-macintosh
-rowId: theme-macintosh
+rowId: dsh-theme-macintosh
 category: theme
 tags:
   - pixel
@@ -37,3 +37,8 @@ license:
   code: MIT
   commercialUse: true
 featuredRank: 0
+starsSnapshot: 0
+releaseUpdatedAt: 2026-09-07T08:47:37.000Z
+metadataUpdatedAt: 2026-09-07T08:47:37.000Z
+starsUpdatedAt: 2026-09-07T08:47:37.000Z
+updatedAt: 2026-09-07T08:47:37.000Z
